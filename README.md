@@ -7,3 +7,5 @@ This is the basic architecture
 
 - In the code u can find the use of dropout layers but while experimenting with different training parameters it was observed that not having a dropout layer was resulting in better performance
 - The results are in constraint with available compute on my local machine 
+- A detailed Commented out version with more experimentation will be uploaded soon
+  
